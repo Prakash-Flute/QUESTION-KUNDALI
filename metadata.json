@@ -1,0 +1,6 @@
+{
+  "name": "BubbleLog",
+  "description": "Neon floating bubble timestamp logger with instant HH:MM:SS capture, unlimited notes, local Room storage, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
